@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fraszle AKA Victoria!
 - 👀 I’m interested in: making programs and applications that improve people's lives!
-- 🌱 I’m currently reviewing: Fullstack Programming
+- 🌱 I’m currently reviewing: C#
 - 💞️ I’m looking to collaborate on: nothing at the moment!
 - 📫 How to reach me: vdmyterk@myriad.com
 
